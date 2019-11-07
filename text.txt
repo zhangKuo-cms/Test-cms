@@ -1,6 +1,0 @@
-public void showName(){
-	System.out.println("这是小明");
-	System.out.println("这是小芳");
-	System.out.println("这是小胡");
-	System.out.println("这是小丽");
-}
